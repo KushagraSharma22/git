@@ -7,3 +7,5 @@ if num > 1:
             break
     else:
         print(num, "is a prime number")
+
+# this is some new changes doing foe checking the git commands
